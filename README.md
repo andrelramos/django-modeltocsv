@@ -1,13 +1,13 @@
-#Install
+# Install
 To install django-modeltocsv, just clone this repo in your computer and copy modeltocsv folder to your django project.
 
-####Something like this:
+### Something like this:
 ```
 $ git clone https://github.com/andrelramos/django-modeltocsv.git
 $ mv django-modeltocsv/modeltocsv/ your-project-dir/
 ```
 
-#Usage
+# Usage
 In your view write:
 ```
 from .models import MyModel
